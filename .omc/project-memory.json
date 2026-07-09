@@ -1,0 +1,79 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1783592498838,
+  "projectRoot": "C:\\UnityContents\\ProjectAge",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "ProjectAge": {
+      "path": "ProjectAge",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1783592498819,
+      "keyFiles": [
+        "Assembly-CSharp-Editor.csproj",
+        "Assembly-CSharp.csproj",
+        "ProjectAge.sln"
+      ]
+    },
+    "ProjectAge\\Assets": {
+      "path": "ProjectAge\\Assets",
+      "purpose": "Static assets",
+      "fileCount": 5,
+      "lastAccessed": 1783592498819,
+      "keyFiles": [
+        "InputSystem_Actions.inputactions",
+        "InputSystem_Actions.inputactions.meta",
+        "Plugins.meta"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "ProjectAge/ProjectSettings/ProjectVersion.txt",
+      "accessCount": 1,
+      "lastAccessed": 1783602392984,
+      "type": "file"
+    },
+    {
+      "path": "ProjectAge/Packages/manifest.json",
+      "accessCount": 1,
+      "lastAccessed": 1783602393463,
+      "type": "file"
+    },
+    {
+      "path": "ProjectAge/ProjectSettings/ProjectSettings.asset",
+      "accessCount": 1,
+      "lastAccessed": 1783602431717,
+      "type": "directory"
+    }
+  ],
+  "userDirectives": []
+}

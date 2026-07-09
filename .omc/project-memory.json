@@ -57,6 +57,24 @@
   },
   "hotPaths": [
     {
+      "path": "ProjectAge/Assets/ProjectAge/Scripts/Runtime/RagdollController.cs",
+      "accessCount": 6,
+      "lastAccessed": 1783607303742,
+      "type": "file"
+    },
+    {
+      "path": "ProjectAge/Assets/ProjectAge/Docs/ProjectAge_Design.md",
+      "accessCount": 4,
+      "lastAccessed": 1783607478183,
+      "type": "file"
+    },
+    {
+      "path": "ProjectAge/Assets/ProjectAge/Scripts/Runtime/ProjectAge.Runtime.asmdef",
+      "accessCount": 2,
+      "lastAccessed": 1783606625377,
+      "type": "file"
+    },
+    {
       "path": "ProjectAge/ProjectSettings/ProjectVersion.txt",
       "accessCount": 1,
       "lastAccessed": 1783602392984,
@@ -73,6 +91,78 @@
       "accessCount": 1,
       "lastAccessed": 1783602431717,
       "type": "directory"
+    },
+    {
+      "path": "ProjectAge/Assets/Imports/PolygonAdventure/Models/Characters/Characters.fbx.meta",
+      "accessCount": 1,
+      "lastAccessed": 1783602764330,
+      "type": "file"
+    },
+    {
+      "path": "ProjectAge/Assets/Imports/PolygonAdventure/Prefabs/Characters/Character_Knight_Black.prefab",
+      "accessCount": 1,
+      "lastAccessed": 1783602765189,
+      "type": "file"
+    },
+    {
+      "path": "ProjectAge/Assets/ProjectAge/Scripts/Runtime/GrabInput.cs",
+      "accessCount": 1,
+      "lastAccessed": 1783603636879,
+      "type": "file"
+    },
+    {
+      "path": "ProjectAge/Assets/ProjectAge/Scripts/Runtime/Grabber.cs",
+      "accessCount": 1,
+      "lastAccessed": 1783603667522,
+      "type": "file"
+    },
+    {
+      "path": "ProjectAge/Assets/ProjectAge/Scripts/Runtime/RagdollFactory.cs",
+      "accessCount": 1,
+      "lastAccessed": 1783603684033,
+      "type": "file"
+    },
+    {
+      "path": "ProjectAge/Assets/ProjectAge/Tests/PlayMode/ProjectAge.Tests.PlayMode.asmdef",
+      "accessCount": 1,
+      "lastAccessed": 1783603687046,
+      "type": "file"
+    },
+    {
+      "path": "ProjectAge/Assets/ProjectAge/Tests/PlayMode/RagdollGrabTests.cs",
+      "accessCount": 1,
+      "lastAccessed": 1783603701961,
+      "type": "file"
+    },
+    {
+      "path": "ProjectAge/Assets/ProjectAge/Scripts/Runtime/RagdollBuilder.cs",
+      "accessCount": 1,
+      "lastAccessed": 1783606648887,
+      "type": "file"
+    },
+    {
+      "path": "ProjectAge/Assets/ProjectAge/Scripts/Runtime/PlayerController.cs",
+      "accessCount": 1,
+      "lastAccessed": 1783606664887,
+      "type": "file"
+    },
+    {
+      "path": "ProjectAge/Assets/ProjectAge/Scripts/Runtime/ThirdPersonCamera.cs",
+      "accessCount": 1,
+      "lastAccessed": 1783606670393,
+      "type": "file"
+    },
+    {
+      "path": "ProjectAge/Assets/ProjectAge/Scripts/Editor/ProjectAge.Editor.asmdef",
+      "accessCount": 1,
+      "lastAccessed": 1783606672892,
+      "type": "file"
+    },
+    {
+      "path": "ProjectAge/Assets/ProjectAge/Scripts/Editor/RagdollBuilderMenu.cs",
+      "accessCount": 1,
+      "lastAccessed": 1783606676529,
+      "type": "file"
     }
   ],
   "userDirectives": []
